@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduAds 2.0 | Empowering Minds, Shaping Futures</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>EduAds 2.0</h1>
+        <p>Empowering Minds, Shaping Futures</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>Our Story</h2>
+        <p>EduAds 2.0 started as a vision to bridge the gap between education and professional success. Over the years, we have grown into a platform offering high-quality academic and career services.</p>
+    </section>
+    
+    <section id="services">
+        <h2>What We Offer</h2>
+        <div class="service">
+            <h3>📄 Professional CV Design</h3>
+            <p>Stand out with a professionally designed CV. Affordable and customized to highlight your skills.</p>
+        </div>
+        <div class="service">
+            <h3>📚 Assignments Helper</h3>
+            <p>Expert academic writing assistance for students and professionals.</p>
+        </div>
+        <div class="service">
+            <h3>📊 Research Data Analysis</h3>
+            <p>Specialized IBM SPSS analysis with detailed reports and explanations.</p>
+        </div>
+        <div class="service">
+            <h3>🎓 Student Support</h3>
+            <p>Free A/L Commerce notes and academic assistance.</p>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: support@eduads2.com</p>
+        <p>WhatsApp: +94XXXXXXXXX</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 EduAds 2.0. All rights reserved.</p>
+    </footer>
+</body>
+</html>
